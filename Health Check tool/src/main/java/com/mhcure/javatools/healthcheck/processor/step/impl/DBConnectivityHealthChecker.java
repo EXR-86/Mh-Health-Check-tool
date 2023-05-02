@@ -4,6 +4,7 @@ import com.mhcure.javatools.healthcheck.processor.step.SystemHealthChecker;
 
 public class DBConnectivityHealthChecker implements SystemHealthChecker {
 
+
     @Override
     public void performHealthCheck() {
 

@@ -3,6 +3,7 @@ package com.mhcure.javatools.healthcheck.processor.step.impl;
 import com.mhcure.javatools.healthcheck.processor.step.SystemHealthChecker;
 
 public class MhServicesHealthChecker implements SystemHealthChecker {
+
     @Override
     public void performHealthCheck() {
 

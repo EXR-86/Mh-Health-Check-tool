@@ -7,4 +7,5 @@ import org.springframework.stereotype.Component;
 @PropertySource("classpath:application.yml")
 public class SystemHealthCheckProcessor {
 
+
 }

@@ -3,6 +3,7 @@ package com.mhcure.javatools.healthcheck.processor.step.impl;
 import com.mhcure.javatools.healthcheck.processor.step.SystemHealthChecker;
 
 public class WebServerHealthChecker implements SystemHealthChecker {
+
     @Override
     public void performHealthCheck() {
 

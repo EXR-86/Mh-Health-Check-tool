@@ -10,4 +10,5 @@ public class SystemHealthCheckApplication {
         SpringApplication.run(SystemHealthCheckApplication.class, args);
     }
 
+
 }
